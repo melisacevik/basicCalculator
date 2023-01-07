@@ -1,0 +1,15 @@
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator.deps.json
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator.runtimeconfig.json
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator.dll
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/bin/Debug/net7.0/basicCalculator.pdb
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.csproj.AssemblyReference.cache
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.AssemblyInfoInputs.cache
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.AssemblyInfo.cs
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.csproj.CoreCompileInputs.cache
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.dll
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/refint/basicCalculator.dll
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.pdb
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/basicCalculator.genruntimeconfig.cache
+/Users/melisacevik/Desktop/Visual Studio Project/basicCalculator/basicCalculator/obj/Debug/net7.0/ref/basicCalculator.dll
